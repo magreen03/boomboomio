@@ -5,3 +5,13 @@
 body {
 	background-color: orange;
 }
+
+.canvas-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#game-canvas {
+	border: 1px solid white;
+}
